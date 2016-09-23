@@ -1,8 +1,8 @@
-Name:
+Name:  Christian Simmons 916513512
 
-Compilation and Run Successful:
+Compilation and Run Successful: Successful @ 10:54am 9/23/16
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Successful @ 10:54am 9/23/16
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
